@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>EnableLocation</key>
+	<false/>
+	<key>EnableViewportScale</key>
+	<false/>
+	<key>AllowInlineMediaPlayback</key>
+	<false/>
+	<key>OpenAllWhitelistURLsInWebView</key>
+	<true/>
+	<key>ExternalHosts</key>
+	<array>
+		<string>*.sfdcstatic.com</string>
+		<string>*.force.com</string>
+		<string>*.salesforce.com</string>
+	</array>
+	<key>Plugins</key>
+	<dict>
+		<key>FileTransfer</key>
+		<string>CDVFileTransfer</string>
+		<key>NetworkStatus</key>
+		<string>CDVConnection</string>
+		<key>Media</key>
+		<string>CDVSound</string>
+		<key>SplashScreen</key>
+		<string>CDVSplashScreen</string>
+		<key>Geolocation</key>
+		<string>CDVLocation</string>
+		<key>Battery</key>
+		<string>CDVBattery</string>
+		<key>Camera</key>
+		<string>CDVCamera</string>
+		<key>Accelerometer</key>
+		<string>CDVAccelerometer</string>
+		<key>com.salesforce.smartstore</key>
+		<string>SFSmartStorePlugin</string>
+		<key>Contacts</key>
+		<string>CDVContacts</string>
+		<key>File</key>
+		<string>CDVFile</string>
+		<key>Logger</key>
+		<string>CDVLogger</string>
+		<key>Notification</key>
+		<string>CDVNotification</string>
+		<key>com.salesforce.oauth</key>
+		<string>SalesforceOAuthPlugin</string>
+		<key>Debug Console</key>
+		<string>CDVDebugConsole</string>
+		<key>Capture</key>
+		<string>CDVCapture</string>
+		<key>com.keith.HelloPlugin</key>
+		<string>HelloPlugin</string>
+		<key>Compass</key>
+		<string>CDVLocation</string>
+	</dict>
+	<key>MediaPlaybackRequiresUserAction</key>
+	<false/>
+	<key>UIWebViewBounce</key>
+	<false/>
+	<key>AutoHideSplashScreen</key>
+	<true/>
+	<key>ShowSplashScreenSpinner</key>
+	<false/>
+	<key>TopActivityIndicator</key>
+	<string>gray</string>
+</dict>
+</plist>

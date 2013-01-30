@@ -1,0 +1,108 @@
+// Messages NSLocalizedString
+"DreamForce"="Dreamforce";
+
+// General
+"agree" = "I agree";
+"disagree" = "I disagree";
+"done"="Done";
+"return"="Return";
+"safari"="Safari";
+"yes"="Yes";
+"no"="No";
+
+"Cancel"="Cancel";
+"View"="View";
+"Ok" = "OK";
+"Reload"="Reload";
+
+"Loading"="Loading";
+
+// Push
+"Push Notification"="Push Notification";
+"Error registering APN"="There was an error when trying to register Push Notification Service";
+
+"Token not received" ="Token not received" ;
+"Token received"="Token received";
+
+// Aurasma
+"Aurasma has closed"="Aurasma has closed";
+
+// Barcode
+"AVFoundation Framework not available"="AVFoundation Framework not available";
+"Encode function not supported"="Encode function not supported";
+
+"Focus the QR code"="Focus the QR code, which is printed on all Dreamforce badges, inside the box to add a contact.";
+
+"Unable to obtain video capture device"="Unable to obtain video capture device";
+"Unable to obtain video capture device input"="Unable to obtain video capture device input";
+"Unable to obtain video capture output"="Unable to obtain video capture output";
+"Unable to preset medium quality video capture"="Unable to preset medium quality video capture";
+"Unable to add video capture device input to session"="Unable to add video capture device input to session";
+"Unable to add video capture output to session"="Unable to add video capture output to session";  
+
+// Calendar
+"Sync successful"="Sync successful";
+"Sync failed"="Sync failed";
+"Error sync value"="Error sync value";
+"Undefined sync behavior"="Undefined sync behavior";
+"Sync is disabled"="Sync is disabled";
+"Event added by Dreamforce App"="- Event added by Dreamforce App -";
+"Speakers:"="Speakers:";
+"Description:"="Description:";
+"Add note:"="Add note:";
+"Delete fail"="Delete fail";
+"Delete all success"="Delete all success";
+
+// Email
+"Email cancelled"="Email cancelled";
+"Email saved"="Email saved";
+"Email sent"="Email sent";
+"Email failed"="Email failed";
+"Email unknown error"="Email unknown error";
+
+// SMS
+"SMS Text not available" = "SMS Text not available";
+"SMS Text cancelled"="SMS Text cancelled";
+"SMS Text sent"="SMS Text sent";
+"SMS Text failed"="SMS Text failed";
+"SMS Text known error"="SMS Text known error";
+
+// URL
+"Feature unsupported"="Feature unsupported";
+"There is a error open this url"= "There is a error open this url";
+"Opened"="Opened";
+
+"Please connect the device to the Internet to use this app."="Please connect the device to the Internet to use this app.";
+"Try again"="Try again";
+
+
+// web view
+
+"ACTION_VIEW_IN_SAFARI"="Open in Safari";
+"ACTION_COPY_LINK"="Copy Link";
+"ACTION_READ_LATER"="Read Later";
+"BUTTON_FORWARD"="Forward";
+"BUTTON_CLOSE"="Close";
+"BUTTON_RELOAD"="Reload";
+
+"BUTTON_DONE"="Done";
+
+"ACTION_VIEW_OPEN_IN"="Open in ...";
+"ACTION_SEND_EMAIL_DOCU"="Email Document";
+
+"ACTION_SAVE_PHOTO"="Save Photo";
+"ACTION_SEND_EMAIL_PHOTO"="Email Photo";
+
+"ACTION_SEND_EMAIL"="Email";
+"EMAIL_SUBJECT"="Dreamforce App";
+
+"BUTTON_CANCEL"="Cancel";
+
+"ERROR_DOWNLOADING_FILE"="Error downloading file";
+"TRY_AGAIN"="Try again";
+
+"NOT_APPLICATION_TO_OPEN_FORMAT"="Can’t open %@. Please install an appropriate application to open this type of file.";
+
+"OK"="OK";
+
+"ERROR_SAVIN_IMAGE"="Error saving image";
